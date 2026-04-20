@@ -1,0 +1,106 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 500 >>
+stream
+BT
+/F1 24 Tf
+50 750 Td
+(Advance Agreement) Tj
+ET
+BT
+/F1 12 Tf
+50 700 Td
+(This is a mock PDF document for demonstration purposes.) Tj
+ET
+BT
+/F1 12 Tf
+50 680 Td
+(Agreement Date: March 20, 2026) Tj
+ET
+BT
+/F1 12 Tf
+50 660 Td
+(Total Advance Amount: $1,450.00) Tj
+ET
+BT
+/F1 12 Tf
+50 640 Td
+(Interest Rate: 5% per annum) Tj
+ET
+BT
+/F1 12 Tf
+50 620 Td
+(Term: 12 months) Tj
+ET
+BT
+/F1 12 Tf
+50 600 Td
+(Monthly Payment: $93.33) Tj
+ET
+BT
+/F1 12 Tf
+50 550 Td
+(Terms and Conditions) Tj
+ET
+BT
+/F1 10 Tf
+50 530 Td
+(1. The borrower agrees to repay the advance amount with interest.) Tj
+ET
+BT
+/F1 10 Tf
+50 515 Td
+(2. Payments are due on the first of each month.) Tj
+ET
+BT
+/F1 10 Tf
+50 500 Td
+(3. Late payments may result in additional fees.) Tj
+ET
+BT
+/F1 10 Tf
+50 485 Td
+(4. The lender reserves the right to collect payment by ACH transfer.) Tj
+ET
+BT
+/F1 10 Tf
+50 470 Td
+(5. This agreement is binding upon both parties.) Tj
+ET
+BT
+/F1 12 Tf
+50 420 Td
+(Signature: ___________________________) Tj
+ET
+BT
+/F1 12 Tf
+50 400 Td
+(Date: ___________________________) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000244 00000 n 
+0000000793 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+872
+%%EOF
